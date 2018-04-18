@@ -12,3 +12,5 @@ ZCZC W04 Telah mencoba demo week 04
 ZCZC W05 Telah mencoba demo week 05
 
 ZCZC W06 Telah mencoba demo week 06
+
+ZCZC W07 Telah mencoba dmeo week 07
